@@ -1,0 +1,16 @@
+
+input[type="text"],
+input[type="email"],
+input[type="submit"] {
+    padding: 8px;
+    margin-bottom: 10px;
+    border: 1px solid #003366;
+    border-radius: 5px;
+}
+
+form {
+    background-color: #e6f2ff;
+    padding: 20px;
+    border-radius: 10px;
+    width: 400px;
+}
