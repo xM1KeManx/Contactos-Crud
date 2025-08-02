@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "nombre": "Michael Sosa",
+    "telefono": "809-123-4567",
+    "email": "michaelsosa02046@gmail.com"
+  },
+  {
+    "id": 2,
+    "nombre": "Cansebero",
+    "telefono": "809-765-4321",
+    "email": "Canserbero@AllWeNeedLove.com"
+  }
+]
